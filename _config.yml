@@ -1,0 +1,28 @@
+name: Caroline
+favicon: null
+layout_spectrum: 0.12080350983887911
+typography_spectrum: 0.9426934360526502
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6976534239947796
+  lightness: 0.8364678171928972
+  saturation: 0.4990071498323232
+  rhythmicContrast: 0.07247403427027166
+purpose: []
